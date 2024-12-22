@@ -5477,11 +5477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Makas\\ITSM\\backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\Makas\\ITSM\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\Makas\\ITSM\\backend\\Backend.csproj",
+      "projectPath": "C:\\Users\\Makas\\ITSM\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\Makas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Makas\\ITSM\\backend\\obj\\",
+      "outputPath": "C:\\Users\\Makas\\ITSM\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Makas\\AppData\\Roaming\\NuGet\\NuGet.Config"

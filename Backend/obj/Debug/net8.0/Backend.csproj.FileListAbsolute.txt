@@ -176,3 +176,4 @@ C:\Users\Makas\ITSM\backend\bin\Debug\net8.0\runtimes\osx\lib\netcoreapp2.0\Syst
 C:\Users\Makas\ITSM\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
 C:\Users\Makas\ITSM\backend\bin\Debug\net8.0\System.DirectoryServices.AccountManagement.dll
 C:\Users\Makas\ITSM\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Makas\ITSM\Backend\obj\Debug\net8.0\Backend.sourcelink.json
